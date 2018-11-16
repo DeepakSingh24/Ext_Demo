@@ -1,0 +1,38 @@
+{
+    "Success": "true",
+    "id": "id",
+    "records": [
+        {
+            "id": 10001,
+            "name": "Acme Corp",
+            "phone": "+5643873454343478",
+            "website": "www.colors.com",
+            "status": "Suspended",
+            "clientSince": "2013-01-01 14:35"
+        },
+        {
+            "id": 10002,
+            "name": "Candy Store LTD",
+            "phone": "+52-01-66-3333-3895",
+            "website": "www.candyworld.com",
+            "status": "Inactive",
+            "clientSince": "2011-01-01 14:35"
+        },
+        {
+            "id": 10003,
+            "name": "Modern Cars of America",
+            "phone": "+52-01-55-4444-8885",
+            "website": "www.coolcars.com",
+            "status": "Suspended",
+            "clientSince": "2013-01-01 14:35"
+        },
+        {
+            "id": 10004,
+            "name": "Extreme Sports Los Cabos",
+            "phone": "+52-01-33-1234-2345",
+            "website": "www.loscabosextremesports.com",
+            "status": "Prospect",
+            "clientSince": "2014-01-01 14:35"
+        }
+    ]
+}
